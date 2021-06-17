@@ -1,4 +1,4 @@
-## Revisions Lab Relection
+## Revisions Lab Reflection
 ### 1. Navigating GitHub and VS Code
 At first, I was slow at using GitHub. I didn't know what many of the buttons meant and I didn't have a clear workflow. After revising content, I got more and more comfortable with the process and began to anticipate how things would render on my site. Implementing A-C-P allowed me to work from VS Code and push my changes to my reading-notes repo on GitHub. This was confusing at first. I wasn't doing it correctly and I was pretty frustrated. But once I wrestled with it for a bit, I was able to figure out the process and I can appreciate how this will enhanced my workflow. 
 
