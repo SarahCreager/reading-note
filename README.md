@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# **A Little About Me**
 
-You can use the [editor on GitHub](https://github.com/SarahCreager/reading-note/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+*I am a former ICU nurse who is changing careers to pursue my passion for coding. I am also a musician. I love how coding and music correlate. You take something that looks like a bunch of shapes on a page and bring it to life through music. The same process occurs with coding. You translate a language of text and symbols into something visual and unique. It's quite remarkable and I’m very excited to learn and grow in this field. [Click here](https://github.com/sarahcreager) to access my GitHub profile page!*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table Of Contents
+* [What is Growth Mindset?](growthmindset.md)
+  * Definition of a Growth Mindset
+  * 3 Reminders to Maintain a Growth Mindset
 
-### Markdown
+* [What is Markdown?](markdown.md) 
+  * Defining Markdown
+  * Examples Using Markdown
+    *  Example 1: Change your Heading
+    *  Example 2: Create a List
+    *  Example 3: Attach a Link   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [What is a Text Editor & Terminal?](texteditorterminal.md)
+  * Text Editors Explained
+    * Selecting a Text Editor
+    * Third-Party Text Editors
+    * Text Editors vs. IDEs
+  * Definition of Terminal
+    * Important Commands & Concepts
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SarahCreager/reading-note/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [What is Version Control?](versioncontrol.md) 
+  * Definition of Version Control 
+    * Local Version Control (LVCS)
+    * Centralized Version Control (CVCS)
+    * Distributed Version Control (DVCS)
+  * Explaining Git
+    * 3 Stages
+    * Local Git Repository Structure
+    * Tracked vs. Untracked
+ 
+* [Revisions Exercise Reflection](revisions.md) 
+  * Thinking Ahead and Planning
+  * Organizing and Explaining
+  * Reviewing Material
