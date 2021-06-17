@@ -33,6 +33,6 @@
     * Tracked vs. Untracked
  
 * [Revisions Exercise Reflection](revisions.md) 
-  * Thinking Ahead and Planning
-  * Organizing and Explaining
+  * Navigating GitHub and VS Code
+  * Identifying Commits
   * Reviewing Material
