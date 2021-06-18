@@ -31,6 +31,7 @@
     * 3 Stages
     * Local Git Repository Structure
     * Tracked vs. Untracked
+  * A-C-P
  
 * [Revisions Exercise Reflection](revisions.md) 
   * Navigating GitHub and VS Code
