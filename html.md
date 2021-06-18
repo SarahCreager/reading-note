@@ -51,3 +51,5 @@ Semantics is the meaning or effect of a piece of code. You can render code that 
 * It can help visually impaired users
 * Finding meaningful code is easier
 * More clearly shows what type of data will populate
+
+[Back to Homepage](README.md)

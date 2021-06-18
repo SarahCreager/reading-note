@@ -37,3 +37,13 @@
   * Navigating GitHub and VS Code
   * Identifying Commits
   * Reviewing Material
+
+* [Wireframing and HTML Basics](html.md) 
+  * What is Wireframe
+    * Wireframe Examples
+    * 3 Keys to Making Wireframes
+  * HTML Basics
+    * Structure of HTML
+  * Semantics
+    * What are Semantics
+    * Benefits of Using Semantics
