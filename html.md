@@ -37,7 +37,7 @@ HTML is a markup language that defines the foundation and content of a web page.
 
 **Element**: `<p>I love coding</p>` This is the combination of the opening tag, the closing tag, and the content within it. 
 
-**Attribute**: ` class="editor-note"` This contains extra information about the element that you don't want to show up in the content. 
+**Attribute**: `class="editor-note"` This contains extra information about the element that you don't want to show up in the content. 
 
 *Attributes have*:
 
