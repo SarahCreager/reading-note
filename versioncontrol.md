@@ -41,4 +41,16 @@ Git is a type of Distributed Version Control System. Every time you save a chang
 
 **Untracked**: These files were not in the latest snapshot. They are not in the staging area. 
 
+# A-C-P
+This is how you will be able to integrate changes made on VS Code into your GitHub repo using terminal.
+
+```
+A: ADD
+  git add nameoffile
+C: Commit
+  git commit -m "explain why you made a change"
+P: Push
+  git push origin main
+  ```
+
 [Back to Homepage](README.md)
