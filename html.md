@@ -37,13 +37,13 @@ HTML is a markup language that defines the foundation and content of a web page.
 
 **Element**: `<p>I love coding</p>` This is the combination of the opening tag, the closing tag, and the content within it. 
 
-**Attribute**: This contains extra information about the element that you don't want to show up in the content. 
+**Attribute**: ` class="editor-note"` This contains extra information about the element that you don't want to show up in the content. 
 
 *Attributes have*:
 
 `<p class="editor-note">I love coding</p>`
 
-  * A space between the start of the attribute and the opening tag or previous attribute.
+  * A space between the start of the attribute and the opening tag or previous attribute
   * The name followed by an equal sign =
   * The value wrapped by quotation marks
 
