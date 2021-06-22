@@ -47,3 +47,8 @@
   * Semantics
     * What are Semantics
     * Benefits of Using Semantics
+
+* [What is CSS?](css.md) 
+  * CSS definition
+  * CSS Syntax
+  * 3 Ways to Insert CSS
