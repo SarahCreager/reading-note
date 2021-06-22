@@ -2,17 +2,16 @@
 While HTML builds the foundation of a website, CSS integrates design elements to style it. CSS is a rule based language that specifies how your website will appear to users. 
 
 ### Documents
-```
-CSS presents documents to user in a stylistic mannor. A document is a structured file of text with markup language. HTML is the most commonly used markup language.
-```
+CSS presents documents to users in a stylistic manner. A document is a structured file of text with markup language. HTML is the most commonly used markup language.
+
 
 ### Presenting
-```
-This is the action of converting a document to show it to a user. Browsers (or user agent) present documents in a visual way to the user. 
-```
+
+This is the action of converting a document to show it to a user. Browsers (or user agents) present documents in a visual way to the user. 
+
 
 # CSS Syntax
-1). Each rule first selects the element that is to be styled. 
+1). First you want to select the element that is to be styled. 
 
 *for example:*
 
@@ -30,7 +29,7 @@ p {
 }
 ```
 
-3).These declarations contain a *property* and a *value*. The property of the element comes first, followed by an allowable value. 
+3).These declarations contain a *property* and a *value*. The property (font-size) of the element comes first, followed by an allowable value (5em). 
 
 *for example:* 
 
@@ -52,12 +51,13 @@ Add a `<link>` element inside the head section.
     <head>
         <link rel=”stylesheet” href=”style.css type=text/css”>
     </head>
+</html>
 ```
 
 This external style sheet can be added via terminal using the touch command and must end with a .css extension. 
 
 ## 2). Internal CSS
-To apply CSS internally, use the `<style>` element inside the `<head> section. 
+To apply CSS internally, use the `<style>` element inside the `<head>` section. 
 
 ```
 <!DOCTYPE html>
@@ -75,11 +75,12 @@ To apply CSS internally, use the `<style>` element inside the `<head> section.
             <p> I love coding </p>
         </main>
     </body>
+</html>
 
 ```
 
 ## 3). Inline CSS
-Add the `style` attribute to the element you want to style. 
+Add the `style` attribute to the element you want to style in your HTML code. 
 
 ```
 <!DOCTYPE html>
@@ -87,9 +88,8 @@ Add the `style` attribute to the element you want to style.
 <html>
     <body>
         <main>
-         <p style="color:blue;"> I love coding.</p?>
+         <p style="color:blue;"> I love coding.</p>
         </main>
-
     </body>
 </html>
 ```
