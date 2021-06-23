@@ -59,5 +59,5 @@
   * JavaScript Features
     * JavaScript Running Order
     * Data Types of JavaScript
-     * How to Declare a Variable
+    * How to Declare a Variable
   * Other Important Concepts
