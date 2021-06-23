@@ -52,3 +52,12 @@
   * CSS definition
   * CSS Syntax
   * 3 Ways to Insert CSS
+
+* [Understanding JavaScript](javascript.md) 
+  * What is JavaScript?
+    * Static vs Dynamic Websites
+  * JavaScript Features
+    * JavaScript Running Order
+    * Data Types of JavaScript
+     * How to Declare a Variable
+  * Other Important Concepts
