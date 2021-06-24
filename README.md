@@ -61,3 +61,16 @@
     * Data Types of JavaScript
     * How to Declare a Variable
   * Other Important Concepts
+  
+* [JavaScript Functions and Operators](javascriptfunctions.md) 
+  * JavaScript Functions
+    * Control Flow
+    * Functions
+      * Invoking a Function
+      * Function Return
+  * JavaScript Operators
+    * Assignment
+    * Adding
+    * Multiplying
+    * Addition Assignment
+  * Other Important Concepts
