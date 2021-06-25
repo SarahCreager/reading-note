@@ -16,6 +16,8 @@ PRO TIP: A great place to test operators is the webpage console. To get here, ri
 | x -= y | reads x = x- y |
 | x++ | reads x = x + 1 |
 
+
+
 | Comparison Operators | Meaning |
 | ----------- | ----------- |
 | == | reads `true` if both sides are equal |
@@ -26,12 +28,16 @@ PRO TIP: A great place to test operators is the webpage console. To get here, ri
 | > | reads `true` if left side is greater than right |
 | >= | reads `true` if left side is greater than or equal to right |
 
-| Logical Operators | Meaning |
-| ----------- | ----------- |
-| && | reads `true` if both sides are true |
-| || | means `OR`. reads `true` if either sides are true. will stop reading at first item if true. will read `false` if both sides are false |
 
-### Examples
+
+### Logical Operators
+---------------------- 
+`&&` : reads `true` if both sides are true 
+
+`||` : (means OR) reads `true` if either side is true. Will stop reading at first item if true. Will read `false` if both sides are false 
+
+
+### Examples:
 
 Example 1: 
 ```
@@ -101,30 +107,30 @@ A JavaScript Loop allows you to repeat your code until it returns the expected v
 
 For example, if a user enters their password incorrectly, you will need a loop to allow them to re-enter their password (maybe with a prompt telling them they entered it incorrectly). There are many kinds of loops, but in this reading we focused on `while` loops and `for` loops. 
 
-## `while` loop
+## while loop
 A while loop is good to use when you don't know how many times it will take a user to input the correct response. The password example above is an example of a situation where you would use a `while loop`. We don't know how long it will take the user to get it right. 
 
 ### Constructing a while loop
 
 **1). You need to establish the base case for the expression before you can enter the loop.**
 
-  The user will have to enter their password before we can begin the loop to test.
+  *The user will have to enter their password before we can begin the loop to test.*
 
 **2). Now we test the expression**
 
-  Did the user enter their password incorrectly? If this is `true` that, yes, they did enter it incorrectly, we enter the body of the loop. 
+  *Did the user enter their password incorrectly? If this is `true` that, yes, they did enter it incorrectly, we enter the body of the loop.* 
   
 **3). Change the condition of what is being tested.**
 
-  This step is critical or the loop will repeat over and over endlessly. This is bad.
+  *This step is critical or the loop will repeat over and over endlessly. This is bad.*
   
 **4). The user is sent back to the beginning with a prompt telling them they entered the password incorrectly. Enter password again.**
 
-  The user enters password correctly. Yay!
+  *The user enters password correctly. Yay!*
   
 **6). We take the `false` route and move on from the loop, continuing on in the code.**
 
-  The user entered their password correct, so it is `false` that the user entered password incorrectly. The loop ends and the user continues on.
+  *The user entered their password correct, so it is `false` that the user entered password incorrectly. The loop ends and the user continues on.*
 
 ### 2 Key Points about while loops
 
@@ -140,19 +146,19 @@ userAge = prompt(`please enter your age again!`)
 }
 ```
 
-## `for` loop
+## for loop
 
 A for loop is good to use when you know how many times you need to execute the loop. The loop ends when you reach this number.
 
 
-*example:*
+### Example:
 ```
 for (let i = 2; i < 10; i++) {
 	console.log(i);
 }
 ```
 
-A for loop contains 3 expressions:
+### A for loop contains 3 expressions:
 
 1). the start `i = 2`
 
@@ -173,7 +179,7 @@ A for loop contains 3 expressions:
 9
 ```
 
-The loop stops once i = 10 because it would finally read `false` since i is no longer < 10
+The loop stops once `i = 10` because it would finally read `false` since `i` is no longer `< 10`
 
 Adjusting the starting value of `i` can control how long the loop runs for. If `i = 6` in the example above, the loop would only run 4 times. 
 
