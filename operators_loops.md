@@ -128,7 +128,7 @@ A while loop is good to use when you don't know how many times it will take a us
 
   *The user enters password correctly. Yay!*
   
-**6). We take the `false` route and move on from the loop, continuing on in the code.**
+**5). We take the `false` route and move on from the loop, continuing on in the code.**
 
   *The user entered their password correct, so it is `false` that the user entered password incorrectly. The loop ends and the user continues on.*
 
