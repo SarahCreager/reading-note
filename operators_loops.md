@@ -112,23 +112,23 @@ A while loop is good to use when you don't know how many times it will take a us
 
 ### Constructing a while loop
 
-1). You need to establish the base case for the expression before you can enter the loop.
+**1). You need to establish the base case for the expression before you can enter the loop.**
 
  *The user will have to enter their password before we can begin the loop to test.*
 
-2). Now we test the expression
+**2). Now we test the expression**
 
   *Did the user enter their password incorrectly? If this is `true` that, yes, they did enter it incorrectly, we enter the body of the loop.* 
   
-3). Change the condition of what is being tested.
+**3). Change the condition of what is being tested.**
 
   *This step is critical or the loop will repeat over and over endlessly. This is bad.*
   
-4). The user is sent back to the beginning with a prompt telling them they entered the password incorrectly. Enter password again.
+**4). The user is sent back to the beginning with a prompt telling them they entered the password incorrectly. Enter password again.**
 
   *The user enters password correctly. Yay!*
   
-6). We take the `false` route and move on from the loop, continuing on in the code.
+**6). We take the `false` route and move on from the loop, continuing on in the code.**
 
   *The user entered their password correct, so it is `false` that the user entered password incorrectly. The loop ends and the user continues on.*
 
