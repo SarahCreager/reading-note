@@ -73,3 +73,14 @@
     * Adding
     * Multiplying
     * Addition Assignment
+
+* [JavaScript Operators and Loops](operators_loops.md) 
+  * JavaScript Operators
+    * Commonly Used Operators
+      * Examples
+  * JavaScript Loops
+    * `while` loop
+      * Constructing a `while` loop
+      * 2 Key Points
+    * `for` loop
+      * Examples
