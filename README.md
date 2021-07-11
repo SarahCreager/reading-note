@@ -2,7 +2,9 @@
 
 *I am a former ICU nurse who is changing careers to pursue my passion for coding. I am also a musician. I love how coding and music correlate. You take something that looks like a bunch of shapes on a page and bring it to life through music. The same process occurs with coding. You translate a language of text and symbols into something visual and unique. It's quite remarkable and I’m very excited to learn and grow in this field. [Click here](https://github.com/sarahcreager) to access my GitHub profile page!*
 
-## Table Of Contents
+# Table Of Contents
+
+## Code 102 Reading Notes
 * [What is Growth Mindset?](growthmindset.md)
   * Definition of a Growth Mindset
   * 3 Reminders to Maintain a Growth Mindset
@@ -85,3 +87,20 @@
     * `for` loop
       * Examples
       * 3 Expressions
+
+## Code 201 Reading Notes
+* Day 1 Reading 
+* Day 2 Reading 
+* Day 3 Reading 
+* Day 4 Reading 
+* Day 5 Reading 
+* Day 6 Reading 
+* Day 7 Reading 
+* Day 8 Reading 
+* Day 9 Reading 
+* Day 10 Reading 
+* Day 11 Reading 
+* Day 12 Reading 
+* Day 13 Reading 
+* Day 14 Reading 
+* Day 15 Reading 
