@@ -89,7 +89,11 @@
       * 3 Expressions
 
 ## Code 201 Reading Notes
-* Day 1 Reading 
+* [Introduction to HTML and JavaScript](class-01.md)
+  * HTML
+  * Designing Websites
+  * Introduction to Programming
+  * How HTML, CSS, & JavaScript Fit Together
 * Day 2 Reading 
 * Day 3 Reading 
 * Day 4 Reading 
