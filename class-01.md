@@ -58,25 +58,25 @@ Block elements appear on different lines of the web page.
 
 *Examples:*
 ```
- <p>, <h1> through <h6>, <ul>, <ol>
- ```
+<p>, <h1> through <h6>, <ul>, <ol>
+```
 
- ### Inline Elements
- Inline elements are exactly how they sound. They stay on the same line as the neighboring elements. 
+### Inline Elements
+Inline elements stay on the same line as the neighboring elements. 
 
- *Examples:*
+*Examples:*
 ```
 <a> <img> <b>
- ```
+```
 
-### `<div>` 
+### The `<div>` Tag
 The `<div>` tag allows you to group block elements together. In other words, it is a generic container for different HTML code.
 
-### `<span>` 
+### The `<span>` Tag
 The `<div>` tag allows you to group inline elements.
 
 ### HTML5
-HTML5 has new elements that better distinguish groups of code rather than using the `<div>` tag 
+HTML5 has new tags that better distinguish groups of code rather than using the `<div>` tag 
 
 *Example:*
 ```
@@ -87,7 +87,7 @@ rather than using: <div id=”nav”>
 One important thing to remember when using HTML5 tags is that older browsers will require additional information to understand how to read these new tags. 
 
 ## Designing Websites
-Below are 4 questions you want to ask before you begin designing your website. 
+Below are 4 questions you should ask before you begin designing a website. 
 
 ### **1). Who is visiting the site?**
 This is your target audience. Who you're trying to reach. What is their age, job, income, interests, hobbies? Sometimes it helps to invent fictional people and refer back to them while you create your website. 
@@ -108,9 +108,7 @@ Wireframes help you visually lay out where key information needs to go on your s
 
 Computers use data to create models of the world.
 
-**Properties:** describe different components of a web page like the title.
-
-**Events:** a user action recognized by the computer. For example: clicking on email subscription form would trigger an event 
+**Events:** a user action recognized by the computer. For example: clicking on email subscription form would trigger an event.
 
 ### How Browsers Work
 
