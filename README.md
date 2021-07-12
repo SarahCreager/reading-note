@@ -12,27 +12,14 @@
 * [What is Markdown?](markdown.md) 
   * Defining Markdown
   * Examples Using Markdown
-    *  Example 1: Change your Heading
-    *  Example 2: Create a List
-    *  Example 3: Attach a Link   
-
+  
 * [What is a Text Editor & Terminal?](texteditorterminal.md)
   * Text Editors Explained
-    * Selecting a Text Editor
-    * Third-Party Text Editors
-    * Text Editors vs. IDEs
   * Definition of Terminal
-    * Important Commands & Concepts
 
 * [What is Version Control?](versioncontrol.md) 
   * Definition of Version Control 
-    * Local Version Control (LVCS)
-    * Centralized Version Control (CVCS)
-    * Distributed Version Control (DVCS)
   * Explaining Git
-    * 3 Stages
-    * Local Git Repository Structure
-    * Tracked vs. Untracked
   * A-C-P
  
 * [Revisions Exercise Reflection](revisions.md) 
@@ -41,14 +28,10 @@
   * Reviewing Material
 
 * [Wireframing and HTML Basics](html.md) 
-  * What is Wireframe
-    * Wireframe Examples
-    * 3 Keys to Making Wireframes
+  * What is a Wireframe
   * HTML Basics
-    * Structure of HTML
   * Semantics
-    * What are Semantics
-    * Benefits of Using Semantics
+
 
 * [What is CSS?](css.md) 
   * CSS definition
@@ -57,36 +40,19 @@
 
 * [Understanding JavaScript](javascript.md) 
   * What is JavaScript?
-    * Static vs Dynamic Websites
   * JavaScript Features
-    * JavaScript Running Order
-    * Data Types of JavaScript
-    * How to Declare a Variable
   * Other Important Concepts
   
 * [JavaScript Functions and Operators](javascriptfunctions.md) 
   * JavaScript Functions
-    * Control Flow
-    * Functions
-      * Invoking a Function
-      * Function Return
   * JavaScript Operators
-    * Assignment
-    * Adding
-    * Multiplying
-    * Addition Assignment
 
 * [JavaScript Operators and Loops](operators_loops.md) 
   * JavaScript Operators
-    * Commonly Used Operators
-      * Examples
   * JavaScript Loops
     * `while` loop
-      * Constructing a `while` loop
-      * 2 Key Points
     * `for` loop
-      * Examples
-      * 3 Expressions
+
 
 ## Code 201 Reading Notes
 * [Introduction to HTML and JavaScript](class-01.md)
@@ -94,7 +60,10 @@
   * Designing Websites
   * Introduction to Programming
   * How HTML, CSS, & JavaScript Fit Together
-* Day 2 Reading 
+* [Basics of HTML, CSS, & JavaScript](class-02.md)
+  * Common HTML Tags Used for Text
+  * Introducing CSS
+  * Basic JavaScript
 * Day 3 Reading 
 * Day 4 Reading 
 * Day 5 Reading 
