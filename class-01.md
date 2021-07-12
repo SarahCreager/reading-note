@@ -96,13 +96,13 @@ This is your target audience. Who you're trying to reach. What is their age, job
 This is the goal of your user. Their motivation. The thing that triggered them to visit the site today. 
 
 ### **3). What information do your visitors need?**
-This is the information that will allow them to achieve their goal. It's important to prioritize information. If the viewer finds the site relevant, consider site relevant, it will build their trust and they will be more open to extra information or other applicable products. If you aren't relevant, they will leave 
+This is the information that will allow them to achieve their goal. It's important to prioritize information. If the viewer finds the site relevant, it will build their trust and they will be more open to viewing extra information or other applicable products. If you aren't relevant, they will leave 
 
 ### **4). How often will people visit your site?**
-As service or info change, you will need to update your site. This greatly impacts how you originally design your site. 
+As services or information changes, you will need to update your site. This greatly impacts how you originally design your site. 
 
 ### Wireframes
-Wireframes help you visually lay out where key information needs to go on your site. You can revise, organize, and prioritize information before you begin writing the code. This is the blueprint of your site.  
+Wireframes help you visually layout where key information needs to go on your site. You can revise, organize, and prioritize information before you begin writing the code. This is the blueprint of your site.  
 
 ## Introduction to Programming
 
