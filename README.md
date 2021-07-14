@@ -64,7 +64,12 @@
   * Common HTML Tags Used for Text
   * Introducing CSS
   * Basic JavaScript
-* Day 3 Reading 
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
+  * HTML Lists
+  * Boxes
+  * Arrays
+  * Switch Statements
+  * Loops
 * Day 4 Reading 
 * Day 5 Reading 
 * Day 6 Reading 
