@@ -37,7 +37,7 @@ title {
 ```
 
 ## Arrays
-Arrays use a single variable to store multiple values. They are good to use when you have a lists of values that are related, but you don't know how many values the list will contain. Arrays do not need to contain the same data type.
+Arrays use a single variable to store multiple values. They are good to use when you have a list of values that are related, but you don't know how many values the list will contain. Arrays do not need to contain the same data type.
 
 ```
 var design
