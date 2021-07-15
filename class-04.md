@@ -70,14 +70,14 @@ Involves putting 2 minds and perspectives together to write code. There is typic
 
 1). easier to catch mistakes
 
-2). problem solve together
+2). can problem-solve together
 
-3). learning from a different perspective
+3). can learn from a different perspective
 
 4). improves communication skills
 
-5). helps with preparation for interviews
+5). helps with interview prep
 
-6). will encounter this in your job
+6). aligns with workflow as a developer
 
 [Back to Homepage](README.md)
