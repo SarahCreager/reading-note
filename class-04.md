@@ -22,12 +22,11 @@ You can open links in a new window using the following format:
 ```
 
 ## Layout
-CSS organizes HTML into boxes. Some elements are block-level and some are inline. 
+CSS organizes HTML elements into boxes. Some elements are block-level and some are inline. 
 
-When designing in CSS be mindful of the different screen sizes users will be interacting with your content on. fixed layouts do not change size with the size of the browser window
+When designing in CSS, be mindful of the different screen sizes users will be viewing your content on. `Fiixed layouts` do not change size with the size of the browser window. `Liquid layouts` stretch and shrink with the browser window.
 
-liquid layouts stretch and shrink with the browser window. 
-`<div> elements are often used to help group items together for stylizing. 
+`<div>` elements are often used to help group items together for stylizing in CSS. 
 
 ## Functions
 
@@ -80,3 +79,5 @@ Involves putting 2 minds and perspectives together to write code. There is typic
 5). helps with preparation for interviews
 
 6). will encounter this in your job
+
+[Back to Homepage](README.md)
