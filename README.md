@@ -70,7 +70,12 @@
   * Arrays
   * Switch Statements
   * Loops
-* Day 4 Reading 
+* [HTML Links, CSS Layout, JS Functions](class-04.md)
+  * Writing Links
+  * Layout
+  * 
+  * 
+  * 
 * Day 5 Reading 
 * Day 6 Reading 
 * Day 7 Reading 
