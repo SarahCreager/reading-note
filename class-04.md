@@ -29,7 +29,7 @@ When designing in CSS be mindful of the different screen sizes users will be int
 liquid layouts stretch and shrink with the browser window. 
 `<div> elements are often used to help group items together for stylizing. 
 
-## Functions, Methods, and Objects
+## Functions
 
 A JavaScript function combines a series of statements, allowing you to perform a specific task by taking input and returning an output. You can reuse a function rather than rewriting new code for the same task. 
 
