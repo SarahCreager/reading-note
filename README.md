@@ -75,7 +75,10 @@
   * Layout
   * Functions
   * Pair Programming
-* Day 5 Reading 
+* [Images, Color, Text](class-05.md)
+  * Images
+  * Color
+  * Designing Text
 * Day 6 Reading 
 * Day 7 Reading 
 * Day 8 Reading 
