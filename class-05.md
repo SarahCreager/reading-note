@@ -35,11 +35,11 @@ You can select color in CSS in 4 different ways.
 ## Designing Text
 
 
-`font-family` allows you to select the name of the font. 
+`font-family` allows you to select the name of the font 
 
 `text-transform` allows you to change the case to uppercase, lowercase, or capitalize
 
-`text-align` allows you to move text left right center or justify
+`text-align` allows you to move text left, right, center, or justify
 
 `:link` allows you to set the style for links that have not been clicked
 
