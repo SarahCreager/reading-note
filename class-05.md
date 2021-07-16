@@ -49,9 +49,13 @@ You can select color in CSS in 4 different ways.
 
 *If you are using multiple font formats, they should appear in code in the following order:*
 
+
 1) eot
+
 2) woff
+
 3) ttf/otf
+
 4) svg
 
 
