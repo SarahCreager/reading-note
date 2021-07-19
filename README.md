@@ -79,7 +79,9 @@
   * Images
   * Color
   * Designing Text
-* Day 6 Reading 
+* [Objects and the DOM](class-06.md)
+  * What is an Object?
+  * DOM
 * Day 7 Reading 
 * Day 8 Reading 
 * Day 9 Reading 
