@@ -82,7 +82,11 @@
 * [Objects and the DOM](class-06.md)
   * What is an Object?
   * DOM
-* Day 7 Reading 
+* [Object-Oriented Programming, HTML Tables](class-07.md)
+  * DOM
+  * Object Constructor Notation
+  * Arrays and Objects
+  * Tables
 * Day 8 Reading 
 * Day 9 Reading 
 * Day 10 Reading 
