@@ -87,7 +87,10 @@
   * Object Constructor Notation
   * Arrays and Objects
   * Tables
-* Day 8 Reading 
+* [CSS Layout](class-08.md)
+  * CSS Basics
+  * Layout Grids
+  * CSS Framework
 * Day 9 Reading 
 * Day 10 Reading 
 * Day 11 Reading 
