@@ -4,13 +4,13 @@
 
 CSS organizes HTML elements into boxes.
 
-**Block level elements** begin on a new line
+**Block-level elements** begin on a new line
 
 **Inline elements** are on the same line
 
 `<div>` elements are often used to help group items together for stylizing in CSS. 
 
-**Normal Flow** default layout of page with each block level element beginning on the next line. 
+**Normal Flow** default layout of page with each block-level element beginning on the next line. 
 
 **Relative Positioning** moves an element from its normal flow position. This doesn't affect any neighboring elements. 
 
