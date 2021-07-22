@@ -91,7 +91,11 @@
   * CSS Basics
   * Layout Grids
   * CSS Framework
-* Day 9 Reading 
+* [Forms and JS Events](class-09.md)
+  * Form Controls
+  * How forms work
+  * Lists, Tables & Forms
+  * Events
 * Day 10 Reading 
 * Day 11 Reading 
 * Day 12 Reading 
