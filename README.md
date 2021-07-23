@@ -96,7 +96,7 @@
   * How forms work
   * Lists, Tables & Forms
   * Events
-* [Debugging](class-10.md)]
+* [Debugging](class-10.md)
   * Error Messages
   * Debugging Workflow
   * Breakpoints
