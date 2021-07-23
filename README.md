@@ -96,7 +96,12 @@
   * How forms work
   * Lists, Tables & Forms
   * Events
-* Day 10 Reading 
+* [Debugging](class-10.md)]
+  * Error Messages
+  * Debugging Workflow
+  * Breakpoints
+  * Debugging Tips
+  * Common Errors
 * Day 11 Reading 
 * Day 12 Reading 
 * Day 13 Reading 
