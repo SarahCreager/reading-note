@@ -102,7 +102,10 @@
   * Breakpoints
   * Debugging Tips
   * Common Errors
-* Day 11 Reading 
+* [Audio, Video, Images](class-11.md)
+  * Images
+  * Practical Information
+  * Flash
 * Day 12 Reading 
 * Day 13 Reading 
 * Day 14 Reading 
