@@ -1,7 +1,7 @@
 # Chart.js, Canvas
 
 ## Chart.js
-**Chart.js** is a well documented JavaScript plugin that can draw graphs. 
+**Chart.js** is a well-documented JavaScript plugin that can draw graphs. 
 
 ### Setting Up
 
