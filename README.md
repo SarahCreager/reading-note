@@ -106,7 +106,9 @@
   * Images
   * Practical Information
   * Flash
-* Day 12 Reading 
+* [Chart.js, Canvas](class-12.md)
+  * Chart.js
+  * Canvas
 * Day 13 Reading 
 * Day 14 Reading 
 * Day 15 Reading 
