@@ -16,7 +16,7 @@
 
 * one way  to create graphics within the `<canvas>` element is by drawing paths. A path is a group of points connected together with lines.
 
-* You can create a path, with drawing commands. Then you store or fill the path to make it appear on the page.  
+* You can create a path, with drawing commands. Then you stroke or fill the path to make it appear on the page.  
 
 `fillStyle = color`
 adjusts the color used when filling shapes.
