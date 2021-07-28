@@ -109,6 +109,8 @@
 * [Chart.js, Canvas](class-12.md)
   * Chart.js
   * Canvas
-* Day 13 Reading 
+* [Local Storage](class-13.md) 
+  * Cookies
+  * HTML5 
 * Day 14 Reading 
 * Day 15 Reading 
