@@ -8,8 +8,8 @@
 ## HTML5 
 * Many single browsers or third-party plugins tried to created something  that could hold more storage, persist after refresh and not transmit data to the server, but they all had drawbacks. 
 
-* Then, HTML5 was invented. It stores information in key/value pairs locally in the web browser. The data persists after the user navigates away. The information is never transmitted to remote web servers. You don't need a thrid-party plugin to use or a specific web browser.
+* Then, HTML5 was invented. It stores information in key/value pairs locally in the web browser. The data persists after the user navigates away. The information is never transmitted to remote web servers. You don't need a third-party plugin to use or a specific web browser.
 
-* In the key/value pairs, data is stored as strings. So you will need to convert it to a number (if needed) when you access it.
+* In the key/value pairs in HTML5, data is stored as strings. If you need to use the data as a number, you will need to convert the data when you access it.
 
 [Back to Homepage](README.md)
