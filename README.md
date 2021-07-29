@@ -113,4 +113,8 @@
   * Cookies
   * HTML5
 * [CSS Transforms, Transitions, and Animations](class-14.md)
+  * Transform
+  * Transition
+  * Animations
+  * What Google Learned...
 * Day 15 Reading 
