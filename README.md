@@ -1,4 +1,6 @@
-# **A Little About Me**
+# Welcome to Sarah's Reading Notes!
+
+## A Little About Me
 
 *Welcome to my Code Fellows reading notes! I am a former ICU nurse who is changing careers to pursue my passion for coding. I am also a musician. I love how coding and music correlate. You take something that looks like a bunch of shapes on a page and bring it to life through music. The same process occurs with coding. You translate a language of text and symbols into something visual and unique. It's quite remarkable and I’m very excited to learn and grow in this field. [Click here](https://github.com/sarahcreager) to access my GitHub profile page!*
 
@@ -117,4 +119,7 @@
   * Transition
   * Animations
   * What Google Learned...
-* Day 15 Reading 
+
+## Code 301 Reading Notes
+
+## Code 401 Reading Notes
