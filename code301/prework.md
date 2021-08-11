@@ -2,11 +2,11 @@
 
 ## Component Based Architecture
 
-**What is a component?**
+### What is a component?
 
 A `component` is a small piece of code that creates a piece of the user interface. Multiple components make up the application as a whole. 
 
-**What are the characteristics of a component?**
+### What are the characteristics of a component?
 
 **Reusability:** Though components can be designed for one task, they are typically created in a format that can be reused in different circumstances.
 
@@ -20,7 +20,7 @@ A `component` is a small piece of code that creates a piece of the user interfac
 
 **Independent:** Components function independently. They are not designed to depend on other components.
 
-**What are the advantages of using component based architecture?**
+### What are the advantages of using component based architecture?
 
 1). **Ease of deployment** 
 
@@ -56,13 +56,13 @@ Multiple people can develop components in parallel without causing issues in the
 
 ## What is Props and How to Use it in React
 
-**What is props short for?**
+### What is props short for?
 
 *Props* is a keyword in React, which is short for *properties*.
 
-**How are props used in React?**
+### How are props used in React?
 
-Props are used to pass data between components. The data used in props is read-only and should not be changed by the component receiving it. 
+Props are used to pass data between components. Data is passed to components as properties like arguments are passed through a function. The data used in props is read-only and should not be changed by the component receiving it. 
 
 **What is the flow of props?**
 
