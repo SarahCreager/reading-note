@@ -80,4 +80,4 @@ Involves putting 2 minds and perspectives together to write code. There is typic
 
 6). aligns with workflow as a developer
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

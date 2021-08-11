@@ -56,4 +56,4 @@ Semantics are the meaning or effect of a piece of code. Though you can render co
 * It makes finding meaningful code easier
 * It more clearly shows what type of data will populate
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

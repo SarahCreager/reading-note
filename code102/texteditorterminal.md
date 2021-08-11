@@ -57,4 +57,4 @@ A terminal is a text-based interface that allows the user to enter commands. It 
   **Tab Completion**:
     As you are typing a path, hit the `Tab` key to initiate an auto-complete action. If nothing happens, hit `Tab` again to see all possible actions. 
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

@@ -32,4 +32,4 @@ CSS allows you to customize the design of lists, tables, and forms.
 
 **Event Handlers** can be used to designate when code should be executed in response to an event, like when the user clicks a button. 
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

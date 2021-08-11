@@ -12,4 +12,4 @@
 
 * In the key/value pairs in HTML5, data is stored as strings. If you need to use the data as a number, you will need to convert the data when you access it.
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

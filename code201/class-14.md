@@ -34,4 +34,4 @@ In general, the most important thing a team embodied was psychological safety, m
 
 Project Aristotle revealed that most people truly want to be themselves at work. Having a psychologically safe working environment allows them to do this, without fearing repercussions.
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

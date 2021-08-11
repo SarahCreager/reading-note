@@ -183,4 +183,4 @@ The loop stops once `i = 10` because it would finally read `false` since `i` is 
 
 Adjusting the starting value of `i` can control how long the loop runs for. If `i = 6` in the example above, the loop would only run 4 times. 
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

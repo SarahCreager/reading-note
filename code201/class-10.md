@@ -34,4 +34,4 @@ Breakpoints pause the script on any line you place the breakpoint (debugger). Wh
 * missing a parameter when calling a function
 * using = instead of ===
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

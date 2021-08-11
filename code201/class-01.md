@@ -126,4 +126,4 @@ Computers use data to create models of the world.
 
 **JavaScript** makes the page interactive and changes the behavior of the web page. 
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

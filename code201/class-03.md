@@ -76,4 +76,4 @@ A `while` loop is used when you don't know how many times it will take a user to
 
 2). You need to make sure that you change the condition of the variable that you are testing inside the loop or it will repeat forever. 
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

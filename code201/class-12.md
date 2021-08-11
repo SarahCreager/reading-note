@@ -24,4 +24,4 @@ adjusts the color used when filling shapes.
 `strokeStyle = color`
 adjusts the color for shapes outlines.
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

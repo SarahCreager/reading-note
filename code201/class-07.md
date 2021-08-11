@@ -53,4 +53,4 @@ You can use `<thead>` `<tbody>` and `<tfoot>` for longer tables.
 
 `<td rowspan="4">` allows you to span 4 rows.
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

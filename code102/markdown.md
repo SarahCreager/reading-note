@@ -61,4 +61,4 @@ You can attach an external link by placing brackets around the link title [ ] fo
 # Final Words
 There are so many amazingly simple things you can create with Markdown, but for now, I hope this covers the basics and gets you started. 
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

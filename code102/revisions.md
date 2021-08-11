@@ -11,4 +11,4 @@ This assignment required me to revise and review my old notes. This helped refre
 ## Final Words
 Though this assignment was difficult at times, I now have a more thorough understanding of creating and organizing a site through Github, as well as integrating that workflow through VS Code using A-C-P. 
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)

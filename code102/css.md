@@ -94,4 +94,4 @@ Add the `style` attribute to the element you want to style in your HTML code.
 </html>
 ```
 
-[Back to Homepage](README.md)
+[Back to Homepage](../README.md)
