@@ -64,7 +64,7 @@ Multiple people can develop components in parallel without causing issues in the
 
 Props are used to pass data between components. Data is passed to components as properties like arguments are passed through a function. The data used in props is read-only and should not be changed by the component receiving it. 
 
-**What is the flow of props?**
+### What is the flow of props?
 
 Data only flows one way in React, from the parent component to the child component.
 
