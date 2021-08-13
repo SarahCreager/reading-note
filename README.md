@@ -7,6 +7,7 @@
 # Table Of Contents
 
 ## Things I want to know more about
+* Creating Components in React
 
 ## Code 102 Reading Notes
 * [What is Growth Mindset?](./code102/growthmindset.md)
