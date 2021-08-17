@@ -38,15 +38,15 @@ If you are handling and updating information inside the component, you want to u
 
 ### When do we re-render our application?
 
-When the state of an application is changed, the application will re-render.This is why state is used when you need to re-render or update the application based on something the user has done. 
+When the state of an application is changed, the application will re-render. This is why state is used when you need to re-render or update the application based on something the user has done. 
 
 ### What are some examples of things that we could store in state?
 
 In the video some examples were:
 
-* A counter: this is something that will need to be updated and re-rendered based on the action is is counting.
+* A counter: this is something that will need to be updated and re-rendered based on the action is counting.
 
-* A form: this is something that will be updated by user as information is inputted into the form.
+* A form: this is something that will be updated by the user as information is inputted into the form.
 
 
 [Back to Homepage](../README.md)
