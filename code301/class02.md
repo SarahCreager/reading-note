@@ -13,9 +13,13 @@ Mounting is the first phase in the lifecycle of React. The constructor is the fi
 ### Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
 
 1). constructor
+
 2). render
+
 3). React updates
+
 4). componentDidMount
+
 5). componentWillUnmount
 
 ### What does componentDidMount do?
