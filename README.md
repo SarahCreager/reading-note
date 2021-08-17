@@ -7,7 +7,7 @@
 # Table Of Contents
 
 ## Things I want to know more about
-* Creating Components in React
+* Using git commands I haven't encountered before
 
 ## Code 102 Reading Notes
 * [What is Growth Mindset?](./code102/growthmindset.md)
@@ -127,6 +127,9 @@
 * [Introduction to React and Components](./code301/prework.md)
   * Component Based Architecture
   * What is Props and How to Use it in React
+* [State and Props](./code301/class02.md)
+  * React Lifecycle
+  * React State Vs Props
 
 ## Code 401 Reading Notes
 
