@@ -74,7 +74,7 @@ objectFour.laugh() // 😂😂😂😂😂
 He creates the function where the state is that he wants to change. The function will be passed like a prop.
 
 ### In your own words, what does the increment function do?
-The increment function in this example, responds after the button is clicked, updating the state and creating an element saying "updated" appear. Then, it passes the name back up to the increment method at the parent component that will change the state. The app will re-render and show the new count.
+The increment function in this example, responds after the button is clicked, updating the state and creating an element saying "updated" appears. Then, it passes the name back up to the increment method at the parent component that will change the state. The app will re-render and show the new count.
 
 In general, an increment function takes in a variable, changes its value, and returns the new value.
 
