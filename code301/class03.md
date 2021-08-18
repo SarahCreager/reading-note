@@ -12,7 +12,7 @@ const colorArray = [red, blue, green];
 const newColorArray = colorArray.map(color => <h2>{color}</h2>);
 ```
 
-### Each list item needs a unique __**key**__.
+### Each list item needs a unique `key.`
 
 ### What is the purpose of a key?
 `Keys` are a clear way to identify items so that you know which items have been modified, added, or removed.
