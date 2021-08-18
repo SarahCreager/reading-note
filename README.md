@@ -130,6 +130,10 @@
 * [State and Props](./code301/class02.md)
   * React Lifecycle
   * React State Vs Props
+* [Passing Functions as Props](./code301/class03.md)
+  * Lists and Keys
+  * The Spread Operator
+  * How to Pass Functions between Components
 
 ## Code 401 Reading Notes
 
