@@ -8,6 +8,7 @@
 
 ## Things I want to know more about
 * Using git commands I haven't encountered before
+* How to render clicked image into modal
 
 ## Code 102 Reading Notes
 * [What is Growth Mindset?](./code102/growthmindset.md)

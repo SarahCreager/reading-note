@@ -10,7 +10,7 @@ It is a component that creates a form element and controls it with the state whi
 We should store the user's response into state as soon as they enter it. This is because the user can receive instant feedback without having to wait and press the submit button.  
 
 ### How do we target what the user is entering if we have an event handler on an input field?
-You can add a name attribute to the input element as well as an event handler function that will do something based on the resuresultstls.
+You can add a name attribute to the input element as well as an event handler function that will do something based on the results.
 
 ## The Conditional (Ternary) Operator Explained
 
