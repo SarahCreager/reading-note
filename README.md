@@ -134,6 +134,9 @@
   * Lists and Keys
   * The Spread Operator
   * How to Pass Functions between Components
+* [React and Forms](./code301/class04.md)
+  * React Docs - Forms
+  * The Conditional (Ternary) Operator Explained
 
 ## Code 401 Reading Notes
 
