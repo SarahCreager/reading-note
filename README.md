@@ -138,6 +138,8 @@
 * [React and Forms](./code301/class04.md)
   * React Docs - Forms
   * The Conditional (Ternary) Operator Explained
+* [Putting it all together](./code301/class05.md)
+  * React Docs - thinking in React
 
 ## Code 401 Reading Notes
 
