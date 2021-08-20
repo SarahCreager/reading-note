@@ -2,7 +2,7 @@
 
 ## React Docs - thinking in React
 
-### How would you break a mock into a component heirarchy?
+### How would you break a mock into a component hierarchy?
 
 1). Draw boxes around each component and subcomponent and give them meaningful names.
 
@@ -17,7 +17,7 @@ This principal states that each component ideally has one task. If it has multip
 A static application does not change based on the user's action. In other words, it has no interactivity. Static applications do not use state.
 
 ### Once you have a static application, what do you need to add?
-The next step is to add the minimal amount of state that are required for your app to work.
+The next step is to add the minimal amount of state that is required for your app to work.
 
 ### What are the three questions you can ask to determine if something is state?
 *This information below was copied from [React Docs](https://reactjs.org/docs/thinking-in-react.html)*
