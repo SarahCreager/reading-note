@@ -8,7 +8,7 @@
 
 ## Things I want to know more about
 * Using git commands I haven't encountered before
-* How to render clicked image into modal
+* Node and NPM
 
 ## Code 102 Reading Notes
 * [What is Growth Mindset?](./code102/growthmindset.md)
@@ -140,6 +140,9 @@
   * The Conditional (Ternary) Operator Explained
 * [Putting it all together](./code301/class05.md)
   * React Docs - thinking in React
+* [NODE.JS](./code301/class06.md)
+  * An Introduction to Node.js on sitepoint.com
+  * 6 Reasons for Pair Programming
 
 ## Code 401 Reading Notes
 
