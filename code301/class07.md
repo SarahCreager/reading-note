@@ -38,6 +38,6 @@ POST allows a system to add something to another system.
 PUT allows a system to replace something in another system. 
 
 ### What does PATCH do?
-PATCH allows a system wants to do a partial update.
+PATCH allows a system to do a partial update.
 
 [Back to Homepage](../README.md)
