@@ -143,6 +143,10 @@
 * [NODE.JS](./code301/class06.md)
   * An Introduction to Node.js on sitepoint.com
   * 6 Reasons for Pair Programming
+* [REST](./code301/class07.md)
+  * What Google Learned From Its Quest to Build the Perfect Team
+  * How I explained REST to my brother
+
 
 ## Code 401 Reading Notes
 
