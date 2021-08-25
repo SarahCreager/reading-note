@@ -146,6 +146,8 @@
 * [REST](./code301/class07.md)
   * What Google Learned From Its Quest to Build the Perfect Team
   * How I explained REST to my brother
+* [APIs](./code301/class08.md)
+  * API Design Best Practices
 
 
 ## Code 401 Reading Notes
