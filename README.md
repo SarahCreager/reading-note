@@ -148,7 +148,9 @@
   * How I explained REST to my brother
 * [APIs](./code301/class08.md)
   * API Design Best Practices
-
+* [Functional Programming](./code301/class09.md)
+  * Functional Programming Concepts
+  * Node JS Tutorial for Beginners #6 - Modules and require()
 
 ## Code 401 Reading Notes
 
