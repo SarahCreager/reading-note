@@ -30,7 +30,7 @@ Immutable data cannot change its state after being created.
 ## Node JS Tutorial for Beginners #6 - Modules and require()
 
 ### What is a module?
-A module is a JavaScript file that communicates with an external application based on their functionality.
+A module is a JavaScript file that communicates with an external application based on its functionality.
 
 ### What does the word ‘require’ do?
 It imports the module into another file. 
