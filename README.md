@@ -151,6 +151,8 @@
 * [Functional Programming](./code301/class09.md)
   * Functional Programming Concepts
   * Node JS Tutorial for Beginners #6 - Modules and require()
-
+* [In memory storage](./code301/class10.md)
+  * Understanding the JavaScript Call Stack
+  * JavaScript error messages
 ## Code 401 Reading Notes
 
