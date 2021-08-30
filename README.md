@@ -154,5 +154,8 @@
 * [In memory storage](./code301/class10.md)
   * Understanding the JavaScript Call Stack
   * JavaScript error messages
+* [Mongo and Mongoose](./code301/class11.md)
+  * nosql vs sql
+  * sql vs nosql (video)
 ## Code 401 Reading Notes
 
