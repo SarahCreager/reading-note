@@ -13,7 +13,7 @@
 | Oracle Express Edition   | Redis        |
 
 ### What kind of data is a good fit for an SQL database?
-SQL is a table based database that is vertically scalable. SQL databases are used for complex queries.
+SQL is a table-based database that is vertically scalable. SQL databases are used for complex queries.
 
 ### Give a real world example.
 
@@ -50,16 +50,16 @@ Tables.
 "A schema has strict requirements for the data being stored in the database. In a table, the schema is defined by fields."
 
 ### What is a NoSQL database?
-NoSQL databases can stores and retrieves data without defining its structure first.
+NoSQL databases can store and retrieve data without defining its structure first.
 
 ### How does it work?
-NoSQL is able to store lots of data in an efficient way.Within the NoSQL database you have collections rather than tables. In the collection, you have documents, similar to the rows in a table. However, these documents don't have to use a strict schema. 
+NoSQL is able to store lots of data in an efficient way. Within the NoSQL database, you have collections rather than tables. In the collection, you have documents, similar to the rows in a table. However, these documents don't have to use a strict schema. 
 
 ### What is inside of a Mongo database?
 Data with no schema or relations. You can have completely different formatted documents in your database. (see above for more details)
 
 ### Which is more flexible - SQL or MongoDB? and why.
-MongoDB is more flexible because it does not rely on strict schema. As your data grows over time, you can add more useful data to your database without needing schema. You can have different documents with different formats without needing to format before storing.  
+MongoDB is more flexible because it does not rely on strict schema. As your data grows over time, you can add more useful data to your database without needing schema. You can have different documents with different formats without needing to format them before storing.  
 
 ### What is the disadvantage of a NoSQL database?
 You will have data in many different formats and you may not be sure if the data you are trying to pull, adheres to the format you need it in.
