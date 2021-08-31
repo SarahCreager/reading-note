@@ -157,5 +157,8 @@
 * [Mongo and Mongoose](./code301/class11.md)
   * nosql vs sql
   * sql vs nosql (video)
-## Code 401 Reading Notes
+* [CRUD](./code301/class12.md)
+  * Status Codes Based On REST Methods
+  * Build A REST API With Node.js, Express, & MongoDB - Quick - First 20 minutes
 
+## Code 401 Reading Notes
