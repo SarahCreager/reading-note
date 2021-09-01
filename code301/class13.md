@@ -30,7 +30,7 @@ They are most successful when they are led by company leaders who understand the
 
 ### Why do diverse companies perform better?
 
-They perform better in creativity and innovation because they brings unique perspectives and problem solving skills. 
+They perform better in creativity and innovation because they bring unique perspectives and problem-solving skills. 
 
 ### Give an example of how a diverse company can serve a diverse user base or vise-versa.
 
