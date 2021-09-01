@@ -160,5 +160,9 @@
 * [CRUD](./code301/class12.md)
   * Status Codes Based On REST Methods
   * Build A REST API With Node.js, Express, & MongoDB - Quick - First 20 minutes
+* [Diversity & Inclusion in the Tech Industry](./code301/class13.md)
+  * That Time When Women Stopped Coding
+  * Employee breakdown of key technology companies
+  * Why diversity matters to your tech company
 
 ## Code 401 Reading Notes
