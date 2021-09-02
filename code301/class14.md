@@ -10,7 +10,7 @@
 
 ### Give an example of what using OAuth would look like.
 
-When you login to a website and it gives you the option to login with your Google account. 
+When you log in to a website and it gives you the option to log in with your Google account. 
 
 ### How does OAuth work? What are the steps that it takes to authenticate the user?
 
@@ -20,14 +20,14 @@ When you login to a website and it gives you the option to login with your Googl
 
 ### What is OpenID?
 
-OpenId is similar to OAuth, but it is for computers logging into machines verses people. 
+OpenId is similar to OAuth, but it is for computers logging into machines versus people. 
 
 ## Authorization and Authentication flows
 
 ### What is the difference between authorization and authentication?
 
 Authentication verifies the user.
-Authorization veriifies what the user can access. 
+Authorization verifies what the user can access. 
 
 ### What is Authorization Code Flow?
 
@@ -35,7 +35,7 @@ This process exchanges an authorization code with a token.
 
 ### What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
 
-This is an additional secuirty step that some apps require. A `Code Verifier` is used to exchange for a token rather than just an authorization code. 
+This is an additional security step that some apps require. A `Code Verifier` is used to exchange for a token rather than just an authorization code. 
 
 ### What is Implicit Flow with Form Post?
 
