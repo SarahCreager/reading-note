@@ -164,5 +164,9 @@
   * That Time When Women Stopped Coding
   * Employee breakdown of key technology companies
   * Why diversity matters to your tech company
+* [Authentication](./code301/class14.md)
+  * What is OAuth
+  * Authorization and Authentication flows
+ 
 
 ## Code 401 Reading Notes
