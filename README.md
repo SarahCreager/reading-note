@@ -2,15 +2,11 @@
 
 ## A Little About Me
 
-*Welcome to my Code Fellows reading notes! I am a former ICU nurse who is changing careers to pursue my passion for coding. I am also a musician. I love how coding and music correlate. You take something that looks like a bunch of shapes on a page and bring it to life through music. The same process occurs with coding. You translate a language of text and symbols into something visual and unique. It's quite remarkable and I’m very excited to learn and grow in this field. [Click here](https://github.com/sarahcreager) to access my GitHub profile page!*
+*Welcome to my Code Fellows reading notes! My name is Sarah. I am a former ICU nurse and musician changing careers to pursue my passion for software development. The thing I love most about coding is that it allows you to integrate analytical thinking with creativity and it’s a subject that I’m constantly challenged and intrigued by. [Click here](https://github.com/sarahcreager) to access my GitHub profile page!*
 
 # Table Of Contents
 
-## Things I want to know more about
-* Using git commands I haven't encountered before
-* Node and NPM
-
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 * [What is Growth Mindset?](./code102/growthmindset.md)
   * Definition of a Growth Mindset
   * 3 Reminders to Maintain a Growth Mindset
@@ -60,7 +56,7 @@
     * `for` loop
 
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 * [Introduction to HTML and JavaScript](./code201/class-01.md)
   * HTML
   * Designing Websites
@@ -124,7 +120,7 @@
   * Animations
   * What Google Learned...
 
-## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 * [Introduction to React and Components](./code301/prework.md)
   * Component Based Architecture
   * What is Props and How to Use it in React
@@ -169,4 +165,4 @@
   * Authorization and Authentication flows
  
 
-## Code 401 Reading Notes
+## Code 401 - Advanced Software Development
