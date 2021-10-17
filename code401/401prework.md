@@ -10,7 +10,7 @@
 
 3). Refactor the solution to #2 above
 
-4). Write out TODO steps as pseudo code
+4). Write out TODO steps as pseudo-code
 
 5). Replace pseudo code with real code
 
@@ -51,7 +51,7 @@ Steps 1-3 should take 70% of the time spent solving the problem.
 
 ## [The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
-### The 5 Whys should be used for for troubleshooting, quality improvement, and problem solving.
+### The 5 Whys should be used for troubleshooting, quality improvement, and problem-solving.
 
 1). Create a team of individuals familiar with the problem
 
