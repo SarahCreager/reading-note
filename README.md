@@ -171,3 +171,4 @@
   * Act like you make $1000/hr
   * How to think like a programmer
   * The 5 Whys
+* [Node Ecosystem, TDD, CI/CD](./code401/class1.md)
