@@ -12,7 +12,7 @@
 
 4). Write out TODO steps as pseudo code
 
-5). Replace pseduo code with real code
+5). Replace pseudo code with real code
 
 6). Refactor
 
@@ -26,7 +26,7 @@ Steps 1-3 should take 70% of the time spent solving the problem.
 
 * Being busy does not mean you are using your time well. Rather, having a clear, focused vision on your goals and acting upon them leads to success.
 
-* The key to efficienty is eliminating distractions and creating quality work.
+* The key to efficiency is eliminating distractions and creating quality work.
 
 * When you say yes to something, you are actually saying “no” to other opportunities. Many successful individuals say no to the majority of things and yes to a few.
 
@@ -39,27 +39,25 @@ Steps 1-3 should take 70% of the time spent solving the problem.
 
 2). Plan your solution (given x, how do I get y)
 
-3). Divide (break your problem into sub-problems and begin with the simpliest)
+3). Divide (break your problem into sub-problems and begin with the simplest)
 
 4). If you're stuck
 
   - debug
 
-  - reasses
+  - reassess
 
   - research
 
 ## [The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
-### the 7 step process
-
-The 5 Whys should be used for for troubleshooting, quality improvement, and problem solving.
+### The 5 Whys should be used for for troubleshooting, quality improvement, and problem solving.
 
 1). Create a team of individuals familiar with the problem
 
 2). Observe the problem and write a clear problem statement
 
-3). Ask why this problem is occuring
+3). Ask why this problem is occurring
 
 4). Ask why 4 additional times
 
