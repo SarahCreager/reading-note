@@ -166,3 +166,8 @@
  
 
 ## Code 401 - Advanced Software Development
+* [401 Pre-work Reading](./code401/401prework.md)
+  * Solving Problems
+  * Act like you make $1000/hr
+  * How to think like a programmer
+  * The 5 Whys
