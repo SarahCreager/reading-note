@@ -61,4 +61,11 @@ A `promise` allows you to write code for a value not initially known. You don't 
 No. Callback functions can be synchronous. Simply put, a callback is a function passed as an argument in another function. For example `array.map()` and `array.forEach()` use callback functions that are synchronous. If you are dealing with an external API call, then your callback will be asynchronous.
 
 
+#### Sources:
+
+[MDN Web Docs](https://developer.mozilla.org/en-US/)
+
+[Code Fellows Code Challenge Overviews](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/301-code-challenges.html)
+
+
 [Back to Homepage](../README.md)
