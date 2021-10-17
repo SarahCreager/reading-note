@@ -50,11 +50,11 @@ A `promise` allows you to write code for a value not initially known. You don't 
 
 *Promises come in 3 states:*
 
-**pending:** not fulfilled or rejected
+1). pending: not fulfilled or rejected
 
-**fulfilled:** the operation was completed successfully
+2). fulfilled: the operation was completed successfully
 
-**rejected:** the operation failed
+3). rejected: the operation failed
 
 **Are all callback functions considered to be Asynchronous? Why or Why Not?**
 
