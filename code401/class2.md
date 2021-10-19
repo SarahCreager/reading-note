@@ -80,5 +80,7 @@ I am excited about becoming more proficient in testing and learning how to bette
 
 [Smart Bear](https://smartbear.com/blog/soap-vs-rest-whats-the-difference/)
 
+[10 Error Codes When Building APIS](https://www.moesif.com/blog/technical/monitoring/10-Error-Status-Codes-When-Building-APIs-For-The-First-Time-And-How-To-Fix-Them/)
+
 #### Back to Home
 [Back to Homepage](../README.md)
