@@ -27,7 +27,7 @@ Both are API tools that allow you to write documentation data in a separate file
 
 `403 Forbidden` you are authenticated, but you don’t have permission to make the request from that URL. 
 
-`400 Bad Request` you did something wrong in your request. It is a generic error that could mean many things like your request data might have the an incorrect format.
+`400 Bad Request` you did something wrong in your request. It is a generic error that could mean many things like your request data might have the incorrect format.
 
 `429 Too Many Requests` you have used all the API request permitted for you plan limit. 
 
@@ -51,7 +51,8 @@ Both are API tools that allow you to write documentation data in a separate file
 ## Reflection
 
 **Which 3 things had you heard about previously and now have better clarity on?**
-1). Test Driven Development
+
+1). Test-Driven Development
 
 2). Creating route handlers in Node
 
