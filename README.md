@@ -173,3 +173,4 @@
   * The 5 Whys
 * [Node Ecosystem, TDD, CI/CD](./code401/class1.md)
 * [Express](./code401/class2.md)
+* [Express REST API](./code401/class3.md)
