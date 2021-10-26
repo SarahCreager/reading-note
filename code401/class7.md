@@ -48,11 +48,11 @@ Authorization code is temporary code that the client exchanges for an access tok
 
 **Which 3 things are you hoping to learn more about in the upcoming lecture/demo?**
 
-1). How to write code that properly using JWT
+1). How to write code properly using JWT
 
 2). How the flow of information works in the JWT process
 
-3). How to create our own authentication system in it's entirety
+3). How to create our own authentication system in its entirety
 
 **What are you most excited about trying to implement or see how it works?**
 
