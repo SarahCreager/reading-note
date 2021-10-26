@@ -176,3 +176,4 @@
 * [Express REST API](./code401/class3.md)
 * [Data Modeling](./code401/class4.md)
 * [Authentication](./code401/class6.md)
+* [Bearer Authorization](./code401/class7.md)
