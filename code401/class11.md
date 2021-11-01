@@ -40,7 +40,7 @@ Role-based access control allows a system admin to assign rights based on the in
 
 1). Event Emitter
 
-2). Utilizing object oriented programming with even driven programming
+2). Utilizing object oriented programming with event driven programming
 
 3). Proper syntax for event driven programming
 
