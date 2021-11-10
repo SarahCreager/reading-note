@@ -4,7 +4,7 @@
 
 **Describe “The Cloud”**
 
-""The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers."
+"The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers."
 
 [What is the cloud? | Cloud definition](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/)
 
