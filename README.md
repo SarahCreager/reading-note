@@ -188,3 +188,4 @@
 * [Component Based UI](./code401/class26.md)
 * [useState() Hook](./code401/class27.md)
 * [Component Lifecycle / useEffect() Hook](./code401/class28.md)
+* [Advanced State with Reducers](./code401/class29.md)
