@@ -190,3 +190,5 @@
 * [Component Lifecycle / useEffect() Hook](./code401/class28.md)
 * [Advanced State with Reducers](./code401/class29.md)
 * [Context API](./code401/class31.md)
+* [Context API - Behaviors](./code401/class32.md)
+* [<Login /> and <Auth />](./code401/class33.md)
