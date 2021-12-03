@@ -4,7 +4,7 @@
 
 **Why is the Context API useful?**
 
-It gives you a way to pass gloal data to children components without having to manually pass down props through every component. 
+It gives you a way to pass global data to children components without having to manually pass down props through every component. 
 
 **Can a component outside of a provider get its context?**
 
