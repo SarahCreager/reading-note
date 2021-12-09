@@ -194,3 +194,5 @@
 * [`<Login />` and `<Auth />`](./code401/class33.md)
 * [API Integration](./code401/class34.md)
 * [Application State with Redux](./code401/class35.md)
+* [Redux - Combined Reducers](./code401/class36.md)
+
